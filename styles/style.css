@@ -1,0 +1,51 @@
+html {
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 700px;
+}
+
+body {
+	width: 900px;
+	margin: 2% auto;
+	padding: 0 30px 30px 30px;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	font-size: 50px;
+	text-align: center;
+}
+
+p, li {
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+p.title {
+	font-size: 30px;
+}
+
+ul {
+	background: #70a7ff;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+li {
+	margin-left: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: purple;
+}
